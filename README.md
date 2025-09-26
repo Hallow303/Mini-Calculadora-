@@ -25,9 +25,3 @@ O projeto é organizado em uma estrutura de pastas da seguinte forma:
 
 ## Requisitos
 * Python 3.x
-
-## Contribuindo
-Se você quiser contribuir com o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
-
-## Licença
-Este projeto é licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
